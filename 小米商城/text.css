@@ -1,0 +1,28 @@
+#nav-stlr{
+  margin: 0;
+  top: 0;
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+  height: 25px;
+  font-size: 12px;
+  width:100%;
+  background-color: black
+}
+#nav-stlr a{
+color: gray;
+text-decoration: none;
+}
+.login{
+  margin-left: 100px;
+}
+.shopcart{
+  display: inline-block;
+  /* margin-top: 15px; */
+}
+ul li{
+  list-style: none;
+  display: inline-block;
+  width: 900
+}
+
